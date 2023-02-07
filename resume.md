@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-[Resume]("files/Ethan Nguyen Resume.pdf")
+[files/Ethan_Nguyen_Resume.pdf]
