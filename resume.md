@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Resume
 permalink: /resume/
 ---
 
-(files/Ethan_Nguyen_Resume.pdf)
+<embed src="https://username.github.io/Ethan_Nguyen_Resume.pdf" type="application/pdf"/>
