@@ -30,39 +30,39 @@ include: ["_pages"]
 
 defaults:
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      show_date: true
-  # _now_archive
-  - scope:
-      path: ""
-      type: now
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      show_date: false
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     show_date: true
+  # # _now_archive
+  # - scope:
+  #     path: ""
+  #     type: now
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
+  #     show_date: false
       
-# Collections
-collections:
-  now:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   now:
+#     output: true
+#     permalink: /:collection/:path/
 
-category_archive:
-  type: liquid
-  path: /categories/
+# category_archive:
+#   type: liquid
+#   path: /categories/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
