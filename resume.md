@@ -7,9 +7,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-I'm currently. 
+Under repair.
 
+
+<!-- 
 ---
+
 
 ## Previous work experiences
 
@@ -44,4 +47,4 @@ Update: 2023/01/11
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[ethannguyen@utexas.edu](mailto:ethannguyen@utexas.edu)_**
+For any inquires, you can reach me via email: **_[ethannguyen@utexas.edu](mailto:ethannguyen@utexas.edu)_** -->
