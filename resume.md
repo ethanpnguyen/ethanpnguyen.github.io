@@ -1,6 +1,10 @@
 ---
-title: Resume
-permalink: /resume/
+title: Ethan Nguyen
+layout: single
+author_profile: true
+header:
+  overlay_image: /files/images/boston.jpeg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 I'm currently. 
@@ -35,7 +39,8 @@ Familiar with: **Java**
 ## Resume
 
 Find attached the PDF version of my [Resume](files/Ethan_Nguyen_Resume.pdf)  
-Update: 2023/02/22
+
+Update: 2023/01/11
 
 ## Contact me
 
