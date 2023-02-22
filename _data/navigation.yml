@@ -1,5 +1,6 @@
 main:
   - title: About
+    url: https://ethanpnguyen.github.io
   - title: Resume
     url: /resume/
   - title: Projects
