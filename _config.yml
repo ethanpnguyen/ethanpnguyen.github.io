@@ -11,7 +11,7 @@ repository: "ethanpnguyen/ethanpnguyen.github.io"
 # Author Profile
 author:
   name   : "Ethan Nguyen"
-  avatar : "files/headshot.jpeg"
+  avatar : "files/images/headshot.jpeg"
   bio    : "Mechanical Engineering<br>Senior @ UT Austin<br>"
   location: "Austin, TX"
   github : ethanpnguyen
