@@ -32,13 +32,11 @@ Familiar with: **Java**
 | English  | Fluent |
 | Spanish  | Working Proficiency |
 
-## CV
+## Resume
 
-Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
-Update: 2020/01/13
+Find attached the PDF version of my [Resume](files/Ethan_Nguyen_Resume.pdf)  
+Update: 2023/02/22
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[ethannguyen@utexas.edu](mailto:ethannguyen@utexas.edu)_**
