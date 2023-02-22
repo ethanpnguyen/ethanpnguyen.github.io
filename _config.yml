@@ -1,8 +1,8 @@
 ### Config
 # >- new line
 
-title: "Ethan Nguyen"
-name: "Ethan Nguyen"
+title: "ethanpnguyen.github.io"
+name: "Ethan Nguyen's Portfolio"
 email: "ethannguyen@utexas.edu"
 url: ""
 repository: "ethanpnguyen/ethanpnguyen.github.io"
@@ -11,7 +11,7 @@ repository: "ethanpnguyen/ethanpnguyen.github.io"
 # Author Profile
 author:
   name   : "Ethan Nguyen"
-  # avatar : ""
+  avatar : "files/headshot.jpeg"
   bio    : "Mechanical Engineering<br>Senior @ UT Austin<br>"
   location: "Austin, TX"
   github : ethanpnguyen
