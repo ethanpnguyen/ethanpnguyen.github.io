@@ -11,7 +11,7 @@ repository: "ethanpnguyen/ethanpnguyen.github.io"
 # Author Profile
 author:
   name   : "Ethan Nguyen"
-  avatar : "/files/images/headshot.jpeg"
+  avatar : "/assets/images/headshot.jpeg"
   bio    : "Mechanical Engineering<br>Senior @ UT Austin<br>"
   location: "Austin, TX"
   github : ethanpnguyen
@@ -83,3 +83,9 @@ category_archive:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8PXH7WDM40"
+    anonymize_ip: false # default
