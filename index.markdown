@@ -13,4 +13,4 @@ Hi! I am a 4th year at The University of Texas at Austin. I will be graduating t
 
 My interests include data science, software engineering, and financial engineering. I have recently accepted an offer as a **Systems Test Engineer I at Raytheon Technologies** in Boston, MA. I hope to expand on my technical skillset before going to graduate school in DS/CS or transitioning to a full on tech role.
 
-Outside of school, you can find me rooting for the Texas Longhorns or on the golf course (+15 handicap btw). Feel free to connect with me on LinkedIn or email me if you want to chat!
+Outside of school, you can find me rooting for the Texas Longhorns or on the golf course (+15 handicap atm). Feel free to connect with me on LinkedIn or email me if you want to chat!
