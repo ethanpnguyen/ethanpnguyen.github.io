@@ -1,5 +1,5 @@
 ---
-title: Ethan Nguyen
+title: ''
 layout: single
 author_profile: true
 permalink: /resume/
