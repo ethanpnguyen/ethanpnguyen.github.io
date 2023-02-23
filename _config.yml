@@ -1,7 +1,8 @@
 ### Config
 # >- new line
 
-# title: "ethanpnguyen.github.io"
+title: ' '
+# mastheadtitle: "ethanpnguyen.github.io"
 # name: "Ethan Nguyen's Portfolio"
 logo: "assets/favicon/android-chrome-384x384.png"
 email: "ethannguyen@utexas.edu"
