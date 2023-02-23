@@ -64,6 +64,11 @@ category_archive:
   type: liquid
   path: /categories/
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8PXH7WDM40"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -83,9 +88,3 @@ category_archive:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-8PXH7WDM40"
-    anonymize_ip: false # default
