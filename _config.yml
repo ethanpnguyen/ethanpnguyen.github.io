@@ -1,6 +1,8 @@
 ### Config
 # >- new line
 
+title: ' '
+title_separator: " "
 mastheadtitle: "ethanpnguyen.github.io"
 # name: "Ethan Nguyen's Portfolio"
 # logo: "assets/favicon/android-chrome-384x384.png"
