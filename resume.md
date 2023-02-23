@@ -1,6 +1,5 @@
 ---
 title: 'Ethan Nguyen'
-mastheadtitle: "ethanpnguyen.github.io"
 layout: single
 author_profile: true
 permalink: /resume/
