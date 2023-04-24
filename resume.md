@@ -23,7 +23,7 @@ I am an incoming Data Analyst at AT&T in their [TDP Program](https://www.att.job
   
   Skills used: *VB.NET, Visual Studio, Tableau, SQL/SSMS*
 
-- **Engineering Consulting Intern** - Denmark and Italy:<br>  
+- **Engineering Consulting Intern** - Denmark and Italy:<br>
   I created Power BI dashboards that show live feeds of Key Performace Indicators (KPIs) on the assembly line. The dashboards replaced systems used at manufacturing firms that previously had to be updated manually.
 
   Skills used: *Power BI, Excel, SQL, SAP*
@@ -62,4 +62,4 @@ Update: 2023/01/11
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[ethannguyen@utexas.edu](mailto:ethannguyen@utexas.edu)_** -->
+For any inquires, you can reach me via email: **_[ethannguyen@utexas.edu](mailto:ethannguyen@utexas.edu)_**
