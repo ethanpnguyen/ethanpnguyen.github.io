@@ -13,8 +13,7 @@ I am an incoming Data Analyst at AT&T in their [TDP Program](https://www.att.job
 ## Previous work experiences
 
 - **Medical Imaging Research Assistant** - Austin, TX:<br>
-  I am an undergraduate research assistant in the [Oden Institute for Computational Sciences and Engineering](https://oden.utexas.edu/), specifically under George Biros. My research is focused on simulations of Alzheimer patients' brains and determining the effects of reducing the regions in the brain into larger clusters.
-  
+  I am an undergraduate research assistant in the [Oden Institute for Computational Sciences and Engineering](https://oden.utexas.edu/) working under Dr. George Biros. My research is focused on simulations of Alzheimer patients' brains and determining the effects of reducing the regions in the brain into larger clusters.
 
   Skills used: *NumPy, Pandas, Matplotlib, K-means clustering, Latex*
 
