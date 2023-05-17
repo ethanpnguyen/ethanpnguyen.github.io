@@ -30,7 +30,7 @@ I am an incoming Data Analyst at AT&T in their [TDP Program](https://www.att.job
 ## Education
 
 - **B.S. Mechanical Engineering** - Austin, TX:<br>
-  Concentration in Industrial Engineering and Management. Minors in Computational Science and   Engineering andBusiness Foundations. Halliburton Scholar.
+  Concentration in Industrial Engineering and Management. Minors in Computational Science and Engineering and Business Foundations. Halliburton Scholar.
 
   Courses taken: *Data Science for Engineers, Elements of Software Design, Dynamic Systems and Controls*
 
