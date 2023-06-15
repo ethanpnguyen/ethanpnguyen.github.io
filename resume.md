@@ -61,4 +61,4 @@ Update: 2023/01/11
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[ethannguyen@utexas.edu](mailto:ethannguyen@utexas.edu)_**
+For any inquires, you can reach me via email: **_[ethanpnguyen@outlook.com](mailto:ethanpnguyen@outlook.com)_**
