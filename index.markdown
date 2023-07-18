@@ -13,4 +13,4 @@ Hi! I am a 4th year student at The University of Texas at Austin. I will be grad
 
 My interests include data science, software engineering, and financial engineering. I recently accepted an offer as a **Data Analyst at AT&T** in their Technology Development Program. I hope to expand on my technical skillset before going to graduate school in DS/CS.
 
-Outside of school, you can find me rooting for the Texas Longhorns or on the golf course (+10.1 handicap atm). Feel free to connect with me on LinkedIn or email me if you want to chat!
+Outside of school, you can find me rooting for the Texas Longhorns or on the golf course (12.0 handicap atm). Feel free to connect with me on LinkedIn or email me if you want to chat!
