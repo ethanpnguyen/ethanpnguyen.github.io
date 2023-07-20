@@ -26,3 +26,56 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+<!-- ---
+title:  "College"
+date:   2023-04-06 -0600
+categories: jekyll update
+---
+
+I decided to make this post to reflect on each year of my college experience. Today marks two months since UT's university-wide commencement, and it already feels so distant. College was the best time of my life and I want something to remember it by.
+
+# Year 1
+
+I entered freshman year with no clue what I was doing. I came from a small high school with only 87 students in the graduating class. My high school experience was a blast - I played 4 sports, didn't try in school, and still got good grades. Luckily, I was accepted into most of the colleges that I applied to (thanks mom for editing all of my essays and screw you U of M). My final decision came down to the University of Texas and Boston University. However, I had grown up in Boston all of my life and my mom worked at Boston University, so any sort of deliberation was short-lived. I committed to UT, becoming the first person from my high school to be accepted to and to attend the best school in Texas.
+
+- roommate, frat
+
+Before getting to UT, I chose to major in mechanical engineering - little did I know how hard it was to switch majors, especially with how poorly I performed in my first semester. Nonetheless, I was excited to have some sort of academic freedom. I met with the MechE academic advisor on my first visit, and the opportunities seemed endless.
+
+
+# Year 2
+
+- covid
+
+- lifting
+
+- financial eng
+
+
+# Year 3
+
+- increase fraternity role
+
+- financial eng wouldnt word
+
+- start trying in school
+
+
+# Year 4
+
+- keep going
+
+- ditch the frat, stress less
+
+- projects/classes are fun, realize what I want to do
+
+
+# Reflecting
+
+- i couldve done better, but i never faced that sort of difficulty in high school
+
+- lesson for the future
+
+- in the moment... -->
